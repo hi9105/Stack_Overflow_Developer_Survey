@@ -27,7 +27,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@Shiv_Shiv/what-should-you-do-to-earn-more-694638341f51).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
